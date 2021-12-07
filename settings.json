@@ -1,18 +1,18 @@
 {
     "self_mode": false,
-	"autobio": false,
+	"autobio": true,
 	"antihidetag": true,
-	"user_register": true,
+	"user_register": false,
 	"anti_delete" : false,
 	"anticall": true,
 	"prefix": ".",
 	"language":"ind",
 	"ownerNumber": "6281334093597",
 	"ownerNumberr": "6281334093597",
-	"cr": "@lewkenz",
-	"ownername": "lewkenz",
+	"cr": "@lewken",
+	"ownername": "lewken",
 	"botname":"ΛᄂPΉΛ BӨƬ",
 	"thumb":"thumbnail_1.jpg",
 	"fakethumb":"thumbnail_1.jpg", 
-	"fake": " 「  ΛᄂPΉΛ BӨƬ  」\nCreated By @lewkenz"
+	"fake": " 「  ΛᄂPΉΛ BӨƬ  」\nCreated By @lewken"
 }
